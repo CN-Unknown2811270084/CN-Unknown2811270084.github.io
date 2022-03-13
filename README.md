@@ -2,8 +2,6 @@
 
 您可以使用[我们的参考答案](https://github.com/CN-Unknown2811270084/CN-Unknown2811270084.github.io/edit/main/README.md)进行必要的学习。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
