@@ -15,6 +15,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CN-Unknown2811270084/CN-Unknown2811270084.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 支持与联系
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+页面有问题？你可以试试[查看文档](https://docs.github.com/categories/github-pages-basics/)和[联系作者](https://qm.qq.com/cgi-bin/qm/qr?k=or3V2mvzmci0voRdp6AAv9dDxEu-yGLm&jump_from=webapi)我们将帮助您解决问题。
