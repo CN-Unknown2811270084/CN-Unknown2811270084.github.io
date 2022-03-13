@@ -8,7 +8,7 @@ SH是一个主要通过人海战术应对您的家庭作业的组织。
 
 更多详细信息请 [加入QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=or3V2mvzmci0voRdp6AAv9dDxEu-yGLm&jump_from=webapi)
 
-### Jekyll Themes
+### 行动以赚取更高的威望值
 
 您可以尝试将您所保留的参考答案文件以 常见图片格式＋书名＋版本 的格式上传至 [我们的QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=or3V2mvzmci0voRdp6AAv9dDxEu-yGLm&jump_from=webapi)
 
