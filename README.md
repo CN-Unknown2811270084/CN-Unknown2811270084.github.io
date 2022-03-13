@@ -10,7 +10,7 @@ SH是一个主要通过人海战术应对您的家庭作业的组织。
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CN-Unknown2811270084/CN-Unknown2811270084.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+您可以尝试将您所保留的参考答案文件以 常见图片格式＋书名＋版本 的格式上传至 [我们的QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=or3V2mvzmci0voRdp6AAv9dDxEu-yGLm&jump_from=webapi)
 
 ### 支持与联系
 
