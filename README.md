@@ -2,12 +2,11 @@
 
 您可以使用[我们的参考答案](https://github.com/CN-Unknown2811270084/CN-Unknown2811270084.github.io/edit/main/README.md)进行必要的学习。
 
-### Markdown
+### 介绍
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+SH是一个主要通过人海战术应对您的家庭作业的组织。
 
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+更多详细信息请 [加入QQ群](https://qm.qq.com/cgi-bin/qm/qr?k=or3V2mvzmci0voRdp6AAv9dDxEu-yGLm&jump_from=webapi)
 
 ### Jekyll Themes
 
