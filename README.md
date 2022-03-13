@@ -1,6 +1,6 @@
 ## Welcome to S.H.(Stray Homework)
 
-You can use the [editor on GitHub](https://github.com/CN-Unknown2811270084/CN-Unknown2811270084.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+您可以使用[我们的参考答案](https://github.com/CN-Unknown2811270084/CN-Unknown2811270084.github.io/edit/main/README.md)进行必要的学习。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
